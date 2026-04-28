@@ -1,4 +1,4 @@
 interface:
   display_name: "Draft2UI"
-  short_description: "Turn rough prototypes into faithful, detailed UI mockups."
-  default_prompt: "Use $draft2ui to turn this hand-drawn prototype into a faithful, highly detailed, realistic high-fidelity UI mockup in a clean SaaS style."
+  short_description: "Turn rough prototypes into final-grade UI designs."
+  default_prompt: "Use $draft2ui to turn this hand-drawn prototype into a faithful, platform-native, final-grade UI design mockup in the simple-tool default style, with crisp meaningful text and concrete sample data."
