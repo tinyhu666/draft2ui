@@ -1,0 +1,4 @@
+interface:
+  display_name: "Draft2UI"
+  short_description: "Turn hand-drawn prototypes into polished UI mockups."
+  default_prompt: "Use $draft2ui to turn this hand-drawn prototype into a high-fidelity design in a clean SaaS style."
